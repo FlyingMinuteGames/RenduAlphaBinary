@@ -1,11 +1,11 @@
 RenduAlphaBinary
 ================
 
-FlyingMinuteGames/BomberFall
-
+Organization: FlyingMinuteGames
+Project: Bomberfall
 Contributors: Basset Cyril, Lamberti Jean-Vincent
 
-Répertoire contenant tous les fichiers de rendus.
+Directory containing all required files
 
 -Documentation in Docs.rar
 -Project in BomberFall_Basset_Lamberti.rar
