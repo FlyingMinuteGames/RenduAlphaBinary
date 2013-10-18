@@ -1,9 +1,9 @@
 RenduAlphaBinary
 ================
 
-Organization: FlyingMinuteGames
-Project: Bomberfall
-Contributors: Basset Cyril, Lamberti Jean-Vincent
+- Organization: FlyingMinuteGames
+- Project: Bomberfall
+- Contributors: Basset Cyril, Lamberti Jean-Vincent
 
 Directory containing all required files
 
